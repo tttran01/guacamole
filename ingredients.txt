@@ -2,4 +2,4 @@ avocados
 salt
 limes
 tomatoes
-garlic
+black pepper
